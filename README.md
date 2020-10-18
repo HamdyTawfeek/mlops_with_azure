@@ -84,4 +84,4 @@ Here is a screencast showing the entire process of the working ML application.
 <a href="https://youtu.be/xAmBY_D7PpY"> Operationalizing Machine Learning screencast</a>
 
 ## Future Enhancement
-A great future enhancement for me is to connect gitlab with the azure mazchine learning pipeline I have created.
+A great future enhancement for me is to connect github with the azure mazchine learning pipeline I have created.
